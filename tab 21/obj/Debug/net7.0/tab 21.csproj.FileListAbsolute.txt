@@ -1,0 +1,15 @@
+C:\Users\usero\OneDrive\Рабочий стол\tab 21\ex-21\tab 21\bin\Debug\net7.0\tab 21.exe
+C:\Users\usero\OneDrive\Рабочий стол\tab 21\ex-21\tab 21\bin\Debug\net7.0\tab 21.deps.json
+C:\Users\usero\OneDrive\Рабочий стол\tab 21\ex-21\tab 21\bin\Debug\net7.0\tab 21.runtimeconfig.json
+C:\Users\usero\OneDrive\Рабочий стол\tab 21\ex-21\tab 21\bin\Debug\net7.0\tab 21.dll
+C:\Users\usero\OneDrive\Рабочий стол\tab 21\ex-21\tab 21\bin\Debug\net7.0\tab 21.pdb
+C:\Users\usero\OneDrive\Рабочий стол\tab 21\ex-21\tab 21\obj\Debug\net7.0\tab 21.csproj.AssemblyReference.cache
+C:\Users\usero\OneDrive\Рабочий стол\tab 21\ex-21\tab 21\obj\Debug\net7.0\tab 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usero\OneDrive\Рабочий стол\tab 21\ex-21\tab 21\obj\Debug\net7.0\tab 21.AssemblyInfoInputs.cache
+C:\Users\usero\OneDrive\Рабочий стол\tab 21\ex-21\tab 21\obj\Debug\net7.0\tab 21.AssemblyInfo.cs
+C:\Users\usero\OneDrive\Рабочий стол\tab 21\ex-21\tab 21\obj\Debug\net7.0\tab 21.csproj.CoreCompileInputs.cache
+C:\Users\usero\OneDrive\Рабочий стол\tab 21\ex-21\tab 21\obj\Debug\net7.0\tab 21.dll
+C:\Users\usero\OneDrive\Рабочий стол\tab 21\ex-21\tab 21\obj\Debug\net7.0\refint\tab 21.dll
+C:\Users\usero\OneDrive\Рабочий стол\tab 21\ex-21\tab 21\obj\Debug\net7.0\tab 21.pdb
+C:\Users\usero\OneDrive\Рабочий стол\tab 21\ex-21\tab 21\obj\Debug\net7.0\tab 21.genruntimeconfig.cache
+C:\Users\usero\OneDrive\Рабочий стол\tab 21\ex-21\tab 21\obj\Debug\net7.0\ref\tab 21.dll
